@@ -1,2 +1,3 @@
 new line
-second linenew branch line
+second line
+new branch line update
